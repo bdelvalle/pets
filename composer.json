@@ -1,0 +1,12 @@
+{
+  "name": "sdev328/pets",
+  "authors": [
+    {
+      "name": "Barbara del Valle",
+      "email": "del-valle.barbara@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "../my-diner/vendor/bcosca/fatfree-core": "dev-master"
+  }
+}
